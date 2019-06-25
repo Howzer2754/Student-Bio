@@ -1,0 +1,40 @@
+
+.mainh1 {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-size: 100px;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+.column {
+    float: left;
+    margin: 1em;
+    display:  inline;
+    width: 30%;
+}
+
+.coloumn1 {
+    text-align: center;
+    margin: 0;
+}
+
+.column2 {
+    text-align: left;
+    margin-right: 50px;
+}
+
+.column3 {
+    text-align: left;
+}
+a {
+    color: red;
+}
